@@ -18,9 +18,16 @@
     "chai": "^4.2.0",
     "chai-http": "^4.3.0",
     "codecov": "^3.7.1",
+    "husky": "^4.3.8",
     "mocha": "^7.1.2",
     "nodemon": "^2.0.3",
     "nyc": "^15.0.0",
     "semistandard": "^14.2.0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run lint && git add .",
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
   }
 }
