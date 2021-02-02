@@ -6,6 +6,8 @@
 
 ![Tests](https://github.com/GDGVIT/node-template/workflows/Tests/badge.svg)
 [![codecov](https://codecov.io/gh/GDGVIT/node-template/branch/master/graph/badge.svg)](https://codecov.io/gh/GDGVIT/node-template)
+[![GitHub Super-Linter](https://github.com/GDGVIT/node-template/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
+
 
 ## Functionality
 
