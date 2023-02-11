@@ -20,7 +20,7 @@
     "codecov": "^3.7.1",
     "husky": "^4.3.8",
     "mocha": "^7.1.2",
-    "nodemon": "^2.0.3",
+    "nodemon": "^2.0.20",
     "nyc": "^15.0.0",
     "semistandard": "^14.2.0"
   },
